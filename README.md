@@ -14,7 +14,7 @@ This project analyzes diet data based on South Indian meals. It calculates BMI, 
 - Visualizes insights using charts
 
 ## Tools Used
-Python, Pandas, NumPy, Matplotlib, Descriptive & Inferential Statistics
+Python, Pandas, Matplotlib, Descriptive & Inferential Statistics
 
 ## Why This Project
 It helps make better food choices in a calorie-deficit, protein-focused South Indian diet. It gives simple and useful health insights.
