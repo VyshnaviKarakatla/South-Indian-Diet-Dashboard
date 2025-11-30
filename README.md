@@ -19,8 +19,5 @@ Python, Pandas, Matplotlib, Descriptive & Inferential Statistics
 ## Why This Project
 It helps make better food choices in a calorie-deficit, protein-focused South Indian diet. It gives simple and useful health insights.
 
-## Future Scope
-Add goals tracking, meal suggestions, and interactive dashboard UI.
-
 ## Result
 Generates BMI, daily protein sufficiency, weekly calorie/protein trends and charts for quick understanding.
