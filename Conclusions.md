@@ -3,4 +3,4 @@
 You are in the overweight BMI category
 Your diet is not protein-sufficient, though Week 2 was better than Week 1
 Calorie intake is increasing instead of decreasing, so focus should shift to strict calorie deficit
-Meal choices can be improved to include more high-protein South Indian dishes
+Meal choices can be improved to include more high-protein South Indian dishes.
